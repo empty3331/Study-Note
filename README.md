@@ -1,2 +1,14 @@
 # Study-Note
-공부한것들 복습,정리
+
+## 공통,cs지식
+*Git
+*유의적 넘버
+
+## frontend
+
+
+## backend
+
+## DevOps
+
+## algorithm
